@@ -2,7 +2,7 @@
   "name": "quiz-app",
   "version": "1.0.0",
   "main": "index.js",
-  "homepage": "https://giretalm.github.io/quiz-app",
+  "homepage": "https://giretalm.github.io/quiz-app/",
   "scripts": {
     "start": "expo start",
     "android": "expo start --android",
